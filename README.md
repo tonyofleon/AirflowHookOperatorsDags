@@ -217,3 +217,12 @@ CeleryExecutor is the best choice for the users in production when they have hea
     Start your airflow workers, on each worker, run: $ airflow worker.
 
     Your airflow workers should be now picking up and running jobs from the airflow server.
+    
+    ## Copyright 
+
+Copyright (c) 2018 Tanuj Gupta
+
+---
+
+> GitHub [@guptakumartanuj](https://github.com/guptakumartanuj) &nbsp;&middot;&nbsp;
+> [Blog](https://guptakumartanuj.wordpress.com/) &nbsp;&middot;&nbsp;
